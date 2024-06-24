@@ -1,2 +1,3 @@
 selenium/hub
 selenium/node-chrome
+kindest/node
